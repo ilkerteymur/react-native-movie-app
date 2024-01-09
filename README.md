@@ -21,10 +21,10 @@ To run the project locally, follow the steps below.
 
 - - Navigate to the project directory and install dependencies.
 
-npm install
-pod-install ios
-yarn or npm run ios
+- - npm install
+- - pod-install ios
+- - yarn or npm run ios
 
 ## `Screen`
 
-![](screen.gif)# react-native-movie-app
+![](screen.gif)
