@@ -19,7 +19,7 @@ To run the project locally, follow the steps below.
 
 - Clone the project files to your computer.
 
-1. Navigate to the project directory and install dependencies.
+- - Navigate to the project directory and install dependencies.
 
 npm install
 pod-install ios
